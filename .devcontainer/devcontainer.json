@@ -1,0 +1,40 @@
+{
+  "name": "Leksa Lighting - front-end editor",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bookworm",
+
+  // Installs exact versions from package-lock.json the first time the workspace is created.
+  "postCreateCommand": "npm ci",
+
+  // Starts the live preview every time the editor is opened.
+  "postAttachCommand": "npm run dev -- --host 0.0.0.0 --port 5173",
+
+  "forwardPorts": [5173],
+  "portsAttributes": {
+    "5173": {
+      "label": "Leksa site (live preview)",
+      "onAutoForward": "openPreview",
+      "visibility": "private"
+    }
+  },
+
+  "hostRequirements": { "cpus": 2 },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bradlc.vscode-tailwindcss",
+        "oxc.oxc-vscode"
+      ],
+      "settings": {
+        "editor.formatOnSave": false,
+        "editor.tabSize": 2,
+        "files.exclude": {
+          "dist": true,
+          "node_modules": true,
+          "package-lock.json": true
+        },
+        "git.autofetch": true
+      }
+    }
+  }
+}

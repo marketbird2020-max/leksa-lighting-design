@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "architectural-facade",
+    "name": "Architectural & Facade Lighting",
+    "description": "Architectural and facade lighting transforms buildings into striking landmarks and brings cityscapes to life after dark. Beyond functionality, our architectural lighting solutions use carefully selected fixtures, colors, beam angles, and lighting compositions to highlight distinctive architectural features, enhance aesthetics, and showcase historical significance. From modern structures to heritage landmarks, professional facade lighting creates visually engaging environments and gives every building a unique identity at night.",
+    "categorySlug": "architectural-lighting"
+  },
+  {
+    "slug": "stage-lighting-drapery",
+    "name": "Stage Lighting & Drapery",
+    "description": "In the world of theater, stage lighting and drapery are inseparable partners, each contributing uniquely to the magic of the stage. Lighting is the painter's brush, sculpting emotions, and guiding the audience's gaze. It can shift the mood from joyous to somber, creating an atmosphere that speaks louder than words. Drapery, on the other hand…",
+    "categorySlug": "stage-lights"
+  },
+  {
+    "slug": "film-fiction",
+    "name": "Film & Fiction Lighting",
+    "description": "Lighting is a pivotal aspect in both film and fiction, transcending mediums to create atmosphere and evoke emotions. In film, lighting techniques like chiaroscuro play with shadows and contrasts, heightening drama or emphasizing character traits. Similarly, in fiction, descriptive lighting details conjure vivid mental imagery, immersing readers in the narrative's mood.",
+    "categorySlug": "film-fiction-lighting"
+  },
+  {
+    "slug": "stadium-lighting",
+    "name": "Stadium Lighting",
+    "description": "Stadium lighting is the unseen hero of sports and entertainment, transforming arenas into beacons of action and excitement. Beyond its functional role, it sets the stage for grand spectacles, enabling games and events to unfold in vivid clarity, even under the cover of night. The intricate design of stadium lighting fixtures, angles, and intensities ensures…",
+    "categorySlug": "stadium-lighting"
+  },
+  {
+    "slug": "dj-pub-lighting",
+    "name": "DJ & Pub Lighting",
+    "description": "In the world of entertainment, DJ and pub lighting is the paintbrush that colors the canvas of the night. It's more than just illumination; it's the heartbeat of the party, setting the mood and amplifying the music's pulse. Dynamic fixtures, strobes, and lasers transform a space, creating a sensory journey that syncs with the beats…",
+    "categorySlug": "dj-pub-lighting"
+  },
+  {
+    "slug": "tv-studio-lighting",
+    "name": "TV Studio Lighting",
+    "description": "TV studio lighting is the unsung hero of the broadcasting realm. It transforms ordinary sets into dynamic, visually compelling environments, ensuring that the audience's attention remains fixed on the screen. Through a combination of fixtures, angles, and intensities, it creates mood, enhances visuals, and illuminates actors or subjects. Properly executed lighting can make a news…",
+    "categorySlug": "tv-studio-lighting"
+  },
+  {
+    "slug": "video-conference-lighting",
+    "name": "Video Conference Lighting",
+    "description": "Video conference lighting is the silent star of the virtual realm, shaping our digital interactions. It transcends functionality, creating an atmosphere that fosters engagement and professionalism. Proper lighting enhances clarity, ensuring that facial expressions and details remain vivid. The right angles and intensity can make the difference between a distracting glare and a warm, inviting…",
+    "categorySlug": "video-conference-lighting"
+  }
+]

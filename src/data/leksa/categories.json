@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "architectural-lighting",
+    "name": "Architectural Lighting",
+    "description": "Architectural and facade lighting are the brushstrokes of urban nocturnal artistry. Beyond functionality, they transform buildings into landmarks and cityscapes into mesmerizing spectacles. These lighting designs use fixtures, colors, and compositions to accentuate a structure's aesthetics, emphasizing unique architectural features or historical significance. By night, a city's character takes on a new dimension, as buildings…",
+    "productCount": 63,
+    "subcategories": [
+      "Flexible Neon Lights",
+      "Linear Profile",
+      "Linear Wash Lights",
+      "Mono Color",
+      "Pixel Lights",
+      "RGBW",
+      "Spot Lights",
+      "Trick Lights",
+      "Wash Lights"
+    ],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/08/1-12.png",
+    "sourceCategory": "Architectural Lighting"
+  },
+  {
+    "slug": "stage-lights",
+    "name": "Stage Lights",
+    "description": "In the world of theater, stage lighting and drapery are inseparable partners, each contributing uniquely to the magic of the stage. Lighting is the painter's brush, sculpting emotions, and guiding the audience's gaze. It can shift the mood from joyous to somber, creating an atmosphere that speaks louder than words.",
+    "productCount": 62,
+    "subcategories": [
+      "Blinder",
+      "Cyclorama Wash Light",
+      "Follow Spot",
+      "Fresnel Lights",
+      "Glamour and Beble Panel",
+      "Moving Head",
+      "Par Lights",
+      "Parcan",
+      "Profile Lights"
+    ],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/08/4-17.jpg",
+    "sourceCategory": "Stage Lights"
+  },
+  {
+    "slug": "studio-lighting",
+    "name": "Studio Lighting",
+    "description": null,
+    "productCount": 46,
+    "subcategories": [
+      "Blinder Light",
+      "Bowen Light",
+      "ENG lights",
+      "Fresnel Light",
+      "Glamour and Bebble",
+      "Lens Panel",
+      "Par Lights",
+      "Soft Panel"
+    ],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-10_48_49-AM.png",
+    "sourceCategory": "Studio Light Category"
+  },
+  {
+    "slug": "landscape-lighting",
+    "name": "Landscape Lighting",
+    "description": null,
+    "productCount": 27,
+    "subcategories": [
+      "Bollard",
+      "Garden Spike Lights",
+      "Glow Garden",
+      "Inground Linear Wash",
+      "Inground Spot Light",
+      "Underwater Lights"
+    ],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-10_57_00-AM.png",
+    "sourceCategory": "Landscape Light Category"
+  },
+  {
+    "slug": "film-fiction-lighting",
+    "name": "Film & Fiction Lighting",
+    "description": "Lighting is a pivotal aspect in both film and fiction, transcending mediums to create atmosphere and evoke emotions. In film, lighting techniques like chiaroscuro play with shadows and contrasts, heightening drama or emphasizing character traits. Similarly, in fiction, descriptive lighting details conjure vivid mental imagery, immersing readers in the narrative's mood.",
+    "productCount": 22,
+    "subcategories": [],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-10_46_15-AM.png",
+    "sourceCategory": "Film Lighting"
+  },
+  {
+    "slug": "lighting-accessories",
+    "name": "Lighting Accessories",
+    "description": null,
+    "productCount": 12,
+    "subcategories": [
+      "Lighting Accessories"
+    ],
+    "image": "https://leksalighting.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-26-2026-11_45_54-AM.png",
+    "sourceCategory": "Lighting Accessories"
+  },
+  {
+    "slug": "drapery-stage-crafts",
+    "name": "Drapery & Stage Crafts",
+    "description": null,
+    "productCount": 6,
+    "subcategories": [],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-25-2026-04_33_15-PM.png",
+    "sourceCategory": "Drapery and Stage Crafts"
+  },
+  {
+    "slug": "control-system",
+    "name": "Control System",
+    "description": null,
+    "productCount": 6,
+    "subcategories": [],
+    "image": "https://leksalighting.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-26-2026-11_52_44-AM.png",
+    "sourceCategory": "Control System"
+  },
+  {
+    "slug": "video-wall",
+    "name": "Video Wall",
+    "description": null,
+    "productCount": 4,
+    "subcategories": [
+      "Project",
+      "Rental"
+    ],
+    "image": "https://leksalighting.com/wp-content/uploads/2026/06/LEKS-scaled-e1757003632845.png",
+    "sourceCategory": "Video Wall"
+  },
+  {
+    "slug": "stadium-lighting",
+    "name": "Stadium Lighting",
+    "description": "Stadium lighting is the unseen hero of sports and entertainment, transforming arenas into beacons of action and excitement. Beyond its functional role, it sets the stage for grand spectacles, enabling games and events to unfold in vivid clarity, even under the cover of night.",
+    "productCount": 3,
+    "subcategories": [
+      "Badminton Sports Light"
+    ],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-10_30_04-AM.png",
+    "sourceCategory": "Stadium Lighting Product"
+  },
+  {
+    "slug": "video-conference-lighting",
+    "name": "Video Conference Lighting",
+    "description": "Video conference lighting is the silent star of the virtual realm, shaping our digital interactions. It transcends functionality, creating an atmosphere that fosters engagement and professionalism. Proper lighting enhances clarity, ensuring that facial expressions and details remain vivid.",
+    "productCount": 1,
+    "subcategories": [],
+    "image": "https://leksalighting.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-26-2026-11_48_02-AM.png",
+    "sourceCategory": "Video Conference Lighting"
+  },
+  {
+    "slug": "dj-pub-lighting",
+    "name": "DJ & Pub Lighting",
+    "description": "In the world of entertainment, DJ and pub lighting is the paintbrush that colors the canvas of the night. It's more than just illumination; it's the heartbeat of the party, setting the mood and amplifying the music's pulse. Dynamic fixtures, strobes, and lasers transform a space, creating a sensory journey that syncs with the beats.",
+    "productCount": 0,
+    "subcategories": [],
+    "image": "https://papayawhip-mule-596854.hostingersite.com/wp-content/uploads/2026/07/Futuristic-nightclub-with-neon-lighting.png",
+    "sourceCategory": null
+  },
+  {
+    "slug": "tv-studio-lighting",
+    "name": "TV Studio Lighting",
+    "description": "TV studio lighting is the unsung hero of the broadcasting realm. It transforms ordinary sets into dynamic, visually compelling environments, ensuring that the audience's attention remains fixed on the screen. Through a combination of fixtures, angles, and intensities, it creates mood, enhances visuals, and illuminates actors or subjects.",
+    "productCount": 0,
+    "subcategories": [],
+    "image": null,
+    "sourceCategory": null
+  }
+]

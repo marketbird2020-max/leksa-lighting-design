@@ -1,0 +1,27 @@
+# Checks every pull request / branch push: lint + type-check + production build.
+# The build runs on GitHub's servers only to prove the change compiles.
+# It deliberately does NOT upload the build output and has NO deploy step or secrets,
+# so the client never receives dist/ from here.
+name: Check
+
+on:
+  pull_request:
+  push:
+    branches-ignore:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build

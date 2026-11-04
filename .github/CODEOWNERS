@@ -1,0 +1,10 @@
+# Site owner. Nothing under these paths merges into main without their approval
+# once "Require review from Code Owners" is on in branch protection (paid plans).
+
+*                         @marketbird2020-max
+/.github/                 @marketbird2020-max
+/.devcontainer/           @marketbird2020-max
+/package.json             @marketbird2020-max
+/package-lock.json        @marketbird2020-max
+/vite.config.ts           @marketbird2020-max
+/src/App.tsx              @marketbird2020-max
